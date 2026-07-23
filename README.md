@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yagneshKota/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yagneshKota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yagneshKota/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yagneshKota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
