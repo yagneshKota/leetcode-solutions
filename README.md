@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yagneshKota/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/yagneshKota/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -35,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
