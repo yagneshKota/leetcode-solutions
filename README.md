@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/yagneshKota/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/yagneshKota/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yagneshKota/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -105,6 +106,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yagneshKota/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yagneshKota/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
