@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/yagneshKota/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yagneshKota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,9 +97,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
