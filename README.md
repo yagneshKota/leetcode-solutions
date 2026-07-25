@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/yagneshKota/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yagneshKota/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -46,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yagneshKota/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -82,10 +84,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
