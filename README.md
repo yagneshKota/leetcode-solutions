@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/yagneshKota/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yagneshKota/leetcode-solutions/tree/master/0066-plus-one) |
@@ -43,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yagneshKota/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/yagneshKota/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
@@ -100,6 +102,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yagneshKota/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yagneshKota/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
