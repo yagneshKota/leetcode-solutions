@@ -41,6 +41,7 @@
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/yagneshKota/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0665-non-decreasing-array) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/yagneshKota/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yagneshKota/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
