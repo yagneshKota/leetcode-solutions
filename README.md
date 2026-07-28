@@ -34,6 +34,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/yagneshKota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0661-image-smoother](https://github.com/yagneshKota/leetcode-solutions/tree/master/0661-image-smoother) |
@@ -85,6 +86,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yagneshKota/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
