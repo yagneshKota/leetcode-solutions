@@ -33,6 +33,7 @@
 | [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0495-teemo-attacking](https://github.com/yagneshKota/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/yagneshKota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0495-teemo-attacking](https://github.com/yagneshKota/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/yagneshKota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Stack
