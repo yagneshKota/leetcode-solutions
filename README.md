@@ -50,6 +50,7 @@
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -71,6 +72,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -99,6 +101,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
