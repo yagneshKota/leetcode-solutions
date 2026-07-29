@@ -195,4 +195,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
+## String
+|  |
+| ------- |
+| [0830-positions-of-large-groups](https://github.com/yagneshKota/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 <!---LeetCode Topics End-->
