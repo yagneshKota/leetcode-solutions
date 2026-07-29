@@ -47,6 +47,7 @@
 | [0766-toeplitz-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0941-valid-mountain-array) |
@@ -96,6 +97,7 @@
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yagneshKota/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -113,6 +115,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Binary Search
@@ -122,6 +125,7 @@
 | [0287-find-the-duplicate-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
