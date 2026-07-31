@@ -56,6 +56,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/yagneshKota/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/yagneshKota/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1572-matrix-diagonal-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
@@ -188,6 +189,7 @@
 | [0498-diagonal-traverse](https://github.com/yagneshKota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/yagneshKota/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 ## Stack
 |  |
 | ------- |
