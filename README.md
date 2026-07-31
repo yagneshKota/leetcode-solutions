@@ -65,6 +65,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0169-majority-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/yagneshKota/leetcode-solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
