@@ -100,6 +100,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Hash Table
 |  |
 | ------- |
