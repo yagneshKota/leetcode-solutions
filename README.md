@@ -57,6 +57,7 @@
 | [1089-duplicate-zeros](https://github.com/yagneshKota/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yagneshKota/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
@@ -108,6 +109,7 @@
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
