@@ -58,6 +58,7 @@
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yagneshKota/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
