@@ -63,6 +63,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Sorting
 |  |
 | ------- |
