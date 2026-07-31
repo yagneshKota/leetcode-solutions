@@ -68,6 +68,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yagneshKota/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yagneshKota/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/yagneshKota/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0238-product-of-array-except-self](https://github.com/yagneshKota/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yagneshKota/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/yagneshKota/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
