@@ -38,6 +38,7 @@
 | [0495-teemo-attacking](https://github.com/yagneshKota/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/yagneshKota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -85,6 +86,7 @@
 | [0287-find-the-duplicate-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -118,6 +120,7 @@
 | [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -147,6 +150,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -158,6 +162,7 @@
 | [0287-find-the-duplicate-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 ## Bit Manipulation
 |  |
