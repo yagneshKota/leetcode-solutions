@@ -55,6 +55,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yagneshKota/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0775-global-and-local-inversions](https://github.com/yagneshKota/leetcode-solutions/tree/master/0775-global-and-local-inversions) |
 | [0867-transpose-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -110,6 +111,7 @@
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/yagneshKota/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0667-beautiful-arrangement-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
+| [0775-global-and-local-inversions](https://github.com/yagneshKota/leetcode-solutions/tree/master/0775-global-and-local-inversions) |
 | [0989-add-to-array-form-of-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
