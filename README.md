@@ -48,6 +48,7 @@
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/yagneshKota/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0665-non-decreasing-array) |
+| [0667-beautiful-arrangement-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/yagneshKota/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -108,6 +109,7 @@
 | [0189-rotate-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/yagneshKota/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0667-beautiful-arrangement-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
