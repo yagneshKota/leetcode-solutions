@@ -34,6 +34,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/yagneshKota/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0406-queue-reconstruction-by-height](https://github.com/yagneshKota/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -121,6 +122,7 @@
 | [0274-h-index](https://github.com/yagneshKota/leetcode-solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/yagneshKota/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/yagneshKota/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -262,4 +264,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/yagneshKota/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/yagneshKota/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
