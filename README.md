@@ -65,6 +65,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/yagneshKota/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0954-array-of-doubled-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/yagneshKota/leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -148,6 +149,7 @@
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/yagneshKota/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0954-array-of-doubled-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -173,6 +175,7 @@
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0954-array-of-doubled-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yagneshKota/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Binary Search
@@ -199,6 +202,7 @@
 | [0611-valid-triangle-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-advantage-shuffle](https://github.com/yagneshKota/leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0954-array-of-doubled-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 ## Counting Sort
 |  |
 | ------- |
