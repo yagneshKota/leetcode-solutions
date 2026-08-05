@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yagneshKota/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yagneshKota/leetcode-solutions/tree/master/0031-next-permutation) |
@@ -88,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yagneshKota/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yagneshKota/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yagneshKota/leetcode-solutions/tree/master/0031-next-permutation) |
@@ -204,6 +206,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yagneshKota/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/yagneshKota/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0611-valid-triangle-number) |
