@@ -104,6 +104,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -235,6 +236,7 @@
 | [0053-maximum-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yagneshKota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/yagneshKota/leetcode-solutions/tree/master/0396-rotate-function) |
 ## Prefix Sum
 |  |
@@ -294,6 +296,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/yagneshKota/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0830-positions-of-large-groups](https://github.com/yagneshKota/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 ## Quickselect
 |  |
