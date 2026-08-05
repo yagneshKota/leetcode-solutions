@@ -101,6 +101,7 @@
 | [0189-rotate-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yagneshKota/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yagneshKota/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0830-positions-of-large-groups](https://github.com/yagneshKota/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 ## Quickselect
 |  |
