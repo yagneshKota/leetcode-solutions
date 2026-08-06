@@ -63,6 +63,7 @@
 | [0775-global-and-local-inversions](https://github.com/yagneshKota/leetcode-solutions/tree/master/0775-global-and-local-inversions) |
 | [0867-transpose-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/yagneshKota/leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/yagneshKota/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -116,6 +117,7 @@
 | [0611-valid-triangle-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0870-advantage-shuffle](https://github.com/yagneshKota/leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/yagneshKota/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/yagneshKota/leetcode-solutions/tree/master/0969-pancake-sorting) |
@@ -164,6 +166,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yagneshKota/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-advantage-shuffle](https://github.com/yagneshKota/leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/yagneshKota/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/yagneshKota/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -225,6 +228,7 @@
 | [0680-valid-palindrome-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-advantage-shuffle](https://github.com/yagneshKota/leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/yagneshKota/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0954-array-of-doubled-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/yagneshKota/leetcode-solutions/tree/master/0969-pancake-sorting) |
 ## Counting Sort
@@ -326,4 +330,8 @@
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/yagneshKota/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/yagneshKota/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
