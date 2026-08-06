@@ -334,4 +334,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/yagneshKota/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
