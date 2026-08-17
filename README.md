@@ -142,6 +142,7 @@
 | [0189-rotate-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/yagneshKota/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0445-add-two-numbers-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0667-beautiful-arrangement-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0775-global-and-local-inversions](https://github.com/yagneshKota/leetcode-solutions/tree/master/0775-global-and-local-inversions) |
 | [0989-add-to-array-form-of-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -304,6 +305,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -366,6 +368,7 @@
 | [0206-reverse-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/yagneshKota/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
