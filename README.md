@@ -61,6 +61,7 @@
 | [0766-toeplitz-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0775-global-and-local-inversions](https://github.com/yagneshKota/leetcode-solutions/tree/master/0775-global-and-local-inversions) |
+| [0817-linked-list-components](https://github.com/yagneshKota/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0867-transpose-matrix](https://github.com/yagneshKota/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/yagneshKota/leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/yagneshKota/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -210,6 +211,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0817-linked-list-components](https://github.com/yagneshKota/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0954-array-of-doubled-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -370,6 +372,7 @@
 | [0328-odd-even-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/yagneshKota/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/yagneshKota/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
