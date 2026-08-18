@@ -76,6 +76,7 @@
 | [0969-pancake-sorting](https://github.com/yagneshKota/leetcode-solutions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/yagneshKota/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/yagneshKota/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yagneshKota/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -310,12 +311,14 @@
 | [0445-add-two-numbers-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -374,6 +377,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/yagneshKota/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/yagneshKota/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yagneshKota/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yagneshKota/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
