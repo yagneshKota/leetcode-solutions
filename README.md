@@ -429,6 +429,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -454,6 +455,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -466,6 +468,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -480,6 +483,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -492,4 +496,8 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
