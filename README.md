@@ -455,6 +455,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -470,6 +471,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -487,6 +489,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
@@ -507,4 +510,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
