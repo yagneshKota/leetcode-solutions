@@ -351,6 +351,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yagneshKota/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/yagneshKota/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yagneshKota/leetcode-solutions/tree/master/0443-string-compression) |
@@ -455,6 +456,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/yagneshKota/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -472,6 +474,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/yagneshKota/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -491,6 +494,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yagneshKota/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/yagneshKota/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/yagneshKota/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
@@ -518,4 +522,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/yagneshKota/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
