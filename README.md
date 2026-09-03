@@ -473,6 +473,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -498,6 +499,7 @@
 | [0623-add-one-row-to-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -525,6 +527,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -563,4 +566,5 @@
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
