@@ -128,6 +128,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0870-advantage-shuffle](https://github.com/yagneshKota/leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -221,6 +222,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/yagneshKota/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0817-linked-list-components](https://github.com/yagneshKota/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0888-fair-candy-swap](https://github.com/yagneshKota/leetcode-solutions/tree/master/0888-fair-candy-swap) |
@@ -469,6 +471,7 @@
 | [0617-merge-two-binary-trees](https://github.com/yagneshKota/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -493,6 +496,7 @@
 | [0617-merge-two-binary-trees](https://github.com/yagneshKota/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -518,6 +522,7 @@
 | [0617-merge-two-binary-trees](https://github.com/yagneshKota/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -535,6 +540,7 @@
 | [0617-merge-two-binary-trees](https://github.com/yagneshKota/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 ## Hash Function
 |  |
@@ -550,4 +556,8 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/yagneshKota/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
