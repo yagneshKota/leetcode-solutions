@@ -334,6 +334,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1019-next-greater-node-in-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -365,6 +366,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0830-positions-of-large-groups](https://github.com/yagneshKota/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quickselect
 |  |
 | ------- |
@@ -592,4 +594,8 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/yagneshKota/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
