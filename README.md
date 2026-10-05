@@ -337,6 +337,7 @@
 | [0445-add-two-numbers-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yagneshKota/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yagneshKota/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/yagneshKota/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yagneshKota/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -374,6 +375,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0830-positions-of-large-groups](https://github.com/yagneshKota/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
+| [0856-score-of-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yagneshKota/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quickselect
@@ -610,6 +612,7 @@
 | [0020-valid-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yagneshKota/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
