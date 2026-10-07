@@ -369,6 +369,7 @@
 | [0032-longest-valid-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yagneshKota/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/yagneshKota/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/yagneshKota/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yagneshKota/leetcode-solutions/tree/master/0443-string-compression) |
@@ -571,6 +572,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/yagneshKota/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yagneshKota/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yagneshKota/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -595,6 +597,7 @@
 | [0022-generate-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/yagneshKota/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
