@@ -164,6 +164,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yagneshKota/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/yagneshKota/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [0969-pancake-sorting](https://github.com/yagneshKota/leetcode-solutions/tree/master/0969-pancake-sorting) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yagneshKota/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/yagneshKota/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting Sort
 |  |
 | ------- |
