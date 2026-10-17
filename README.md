@@ -101,6 +101,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yagneshKota/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yagneshKota/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yagneshKota/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yagneshKota/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yagneshKota/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
