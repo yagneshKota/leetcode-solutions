@@ -102,6 +102,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yagneshKota/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yagneshKota/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/yagneshKota/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/yagneshKota/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yagneshKota/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/yagneshKota/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/yagneshKota/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yagneshKota/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/yagneshKota/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -647,4 +650,5 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yagneshKota/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/yagneshKota/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
