@@ -401,6 +401,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yagneshKota/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yagneshKota/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/yagneshKota/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Quickselect
 |  |
 | ------- |
